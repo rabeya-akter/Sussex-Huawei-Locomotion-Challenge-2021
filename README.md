@@ -10,7 +10,7 @@ Team Members:
 * Rabeya Akter
 * Safaeid Hossain Arib
 * Omar Shahid
-* Md Atiqur Rahman Ahad
+* [Md Atiqur Rahman Ahad]"(https://scholar.google.com/citations?hl=en&user=W6U2zfAAAAAJ)"
 
 <br />
 
