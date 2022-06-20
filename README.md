@@ -7,10 +7,10 @@ Team Name: GPU Kaj Kore Na
 
 Team Members:
 
-* Rabeya Akter
-* Safaeid Hossain Arib
-* Omar Shahid
-* [Md Atiqur Rahman Ahad]"(https://scholar.google.com/citations?hl=en&user=W6U2zfAAAAAJ)"
+* [Rabeya Akter](https://scholar.google.com/citations?hl=en&user=3XYOK88AAAAJ)
+* [Safaeid Hossain Arib](https://scholar.google.com/citations?hl=en&user=ETeF6sUAAAAJ)
+* [Omar Shahid](https://scholar.google.com/citations?hl=en&user=9KqsI5gAAAAJ)
+* [Md Atiqur Rahman Ahad](https://scholar.google.com/citations?hl=en&user=W6U2zfAAAAAJ)
 
 <br />
 
