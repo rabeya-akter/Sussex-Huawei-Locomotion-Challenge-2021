@@ -12,10 +12,12 @@ Team Members:
 * Omar Shahid
 * Md Atiqur Rahman Ahad
 
+\n
+\n
 
 Our work publishded here: https://dl.acm.org/doi/10.1145/3460418.3479376
 
-Classical Machine Learning Approach for Human Activity Recognition Using Location Data
+# Classical Machine Learning Approach for Human Activity Recognition Using Location Data
 
 Abstract:
 
