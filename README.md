@@ -12,14 +12,11 @@ Team Members:
 * Omar Shahid
 * Md Atiqur Rahman Ahad
 
-_
+<br />
 
-_
+<br />
 
-_
-
-_
-
+<br />
 
 
 # Classical Machine Learning Approach for Human Activity Recognition Using Location Data
