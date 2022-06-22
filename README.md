@@ -28,6 +28,7 @@ The Sussex-Huawei Locomotion-Transportation (SHL) recognition Challenge 2021 was
 <br />
 
 ![image](https://user-images.githubusercontent.com/44209638/175030554-bd32f19f-6ec3-4969-a2ef-063ca6901dbc.png)
+
 Figure: Block Diagram of Our Method
 
 <br />
