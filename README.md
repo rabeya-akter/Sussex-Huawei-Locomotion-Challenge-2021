@@ -1,5 +1,6 @@
 # Sussex-Huawei-Locomotion-Challenge-2021
 
+![image](https://user-images.githubusercontent.com/44209638/180597817-37a2c280-016a-4248-9a5b-ed49d1eb6858.png)
 
 Challange Website: http://www.shl-dataset.org/activity-recognition-challenge-2021/
 
@@ -7,10 +8,14 @@ Team Name: GPU Kaj Kore Na
 
 Team Members:
 
-* [Rabeya Akter](https://scholar.google.com/citations?hl=en&user=3XYOK88AAAAJ)
-* [Safaeid Hossain Arib](https://scholar.google.com/citations?hl=en&user=ETeF6sUAAAAJ)
-* [Omar Shahid](https://scholar.google.com/citations?hl=en&user=9KqsI5gAAAAJ)
-* [Md Atiqur Rahman Ahad](https://scholar.google.com/citations?hl=en&user=W6U2zfAAAAAJ)
+* ![image](https://user-images.githubusercontent.com/44209638/180597701-bcd41f79-4426-4c00-a40d-5351f6173765.png)
+[Rabeya Akter](https://scholar.google.com/citations?hl=en&user=3XYOK88AAAAJ)
+* ![image](https://user-images.githubusercontent.com/44209638/180597708-91354ac3-2b98-4971-8674-b10402443ddd.png)
+[Safaeid Hossain Arib](https://scholar.google.com/citations?hl=en&user=ETeF6sUAAAAJ)
+* ![image](https://user-images.githubusercontent.com/44209638/180597755-94964d1e-18c1-481d-9886-4b0644bc2d51.png)
+[Omar Shahid](https://scholar.google.com/citations?hl=en&user=9KqsI5gAAAAJ)
+* ![image](https://user-images.githubusercontent.com/44209638/180597767-b204de5b-780c-43f8-b879-80a063c59d37.png)
+[Md Atiqur Rahman Ahad](https://scholar.google.com/citations?hl=en&user=W6U2zfAAAAAJ)
 
 <br />
 
